@@ -1,3 +1,5 @@
-public class simple{
-
+public class Java{
+  
 }
+
+
